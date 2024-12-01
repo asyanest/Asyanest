@@ -2,8 +2,8 @@
 
 About me:
 
-- 🔭 I’m currently working on my expierence.
-- 🌱 I’m currently learning data analytics.
+- 🔭 Currently working on my expierence.
+- 🌱 Active job searching.
 - 💬 Ask me about my hobbies.
 - 📫 How to reach me: asyanest@gmail.com 
 
